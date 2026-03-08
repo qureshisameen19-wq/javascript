@@ -1,12 +1,12 @@
 // Question no .1
-// var  studentName  = " Arhama"
+// var  studentName  = "Sameen"
 //    alert(studentName);
 //    document.write(studentName)
 //    console.log(studentName)
 
 
 // Question no .2
-// var  studentName  = " Arhama"
+// var  studentName  = " Sameen"
 //    alert(studentName);
 //    document.write(studentName)
 //    console.log(studentName)
@@ -23,7 +23,7 @@
     
     // Question no .4
     // alert("Jhone Done")
-    // alert("15  years old")
+    // alert("19  years old")
     // alert("Certified Mobile Application Development")
 
       // Question no .5
@@ -35,7 +35,7 @@
 
     // qUESTION No. 6
 
-// var email = "arhamai829@example.com";
+// var email = "qureshisameen19@example.com";
 
 // alert("My email address is " + email);
 
